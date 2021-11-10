@@ -1,0 +1,35 @@
+#testimonials{
+    text-align: center;
+    background-color: #191A19;
+    color: #f1f3f5;
+    padding: 91px;
+}
+
+.content{
+    padding: 10px;
+}
+
+#demo{
+    text-align: center;
+    padding: 5%;
+    background-image: url("https://cdn.wallpapersafari.com/73/82/PbSxRT.jpg");
+
+}
+
+.logo{
+    background-image: url("https://cdn.wallpapersafari.com/73/82/PbSxRT.jpg");
+
+}
+.logo-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+footer{
+    background-color: #191A19;
+    color: azure;
+}
+.py-3{
+    font-family: 'Dancing Script', cursive;
+}
